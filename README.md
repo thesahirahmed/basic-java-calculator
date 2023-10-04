@@ -3,6 +3,10 @@
 ## Overview
 This project represents a basic calculator application implemented in Java. It provides a graphical user interface (GUI) for users to perform basic arithmetic calculations. The project consists of three main components (java programs): `CalculatorUI`, `Calculator`, and `CalculatorLogic`.
 
+## Output:
+![ture](https://github.com/thesahirahmed/basic-java-calculator/assets/96282686/15b5ffa7-c7ee-43e8-8be1-464a656ee38f)
+
+
 ## CalculatorUI
 The `CalculatorUI` class is responsible for creating the graphical user interface (UI) of the calculator. It includes the display area, buttons for digits and operators, and event handling to perform calculations. This class serves as the user-facing part of the calculator.
 
