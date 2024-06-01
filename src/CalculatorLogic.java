@@ -12,6 +12,7 @@ public class CalculatorLogic {
         } catch (NumberFormatException e) {
             return "Invalid expression";
         }
+        
         String operator = parts[1];
         double result = 0;
         switch (operator) {
